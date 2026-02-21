@@ -6,4 +6,9 @@ It can port pretty much any chart there is. I might create a Psych Engine to Kad
 
 I **advise you** to go test it for yourself!
 
+# Required applications
+- **Kade Engine** or any mod based off it (for conversion)
+- **Psych Engine** (this is what you were here for right?)
+- **Python 3.x**, tested on Python 3.14
+
 ### Have fun converting!
